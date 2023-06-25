@@ -56,9 +56,8 @@ export async function renderFolderView(items, path, request) {
                   <div class="intro markdown-body" style="text-align: left; margin-top: 2rem;">
                     <h2>Hi, I'm tkfans 👋</h2>
                     <p>This is tkfans OneDrive public directory listing.  Reach me at:  tkfanswind@gmail.com.</p>
-                    <p><a href="https://onedrive.tkfans.tk/">OneDrive FODI</a></p>
                           <hr>
-                    <h2>📁 NEW 👋</h2>
+                    <h2>📁 Films/TV List 👋</h2>
                     <p><a href="https://onedrive.tkfans.tk/Films.html">Films List</a></p>
                     <p><a href="https://onedrive.tkfans.tk/TV.html">TV List</a></p>
                           <hr>   
