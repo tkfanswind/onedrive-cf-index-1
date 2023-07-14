@@ -60,41 +60,8 @@ export async function renderFolderView(items, path, request) {
                     <h2>📁 Films/TV List 👋</h2>
                     <p><a href="https://onedrive.tkfans.tk/Films.html">Films List</a></p>
                     <p><a href="https://onedrive.tkfans.tk/TV.html">TV List</a></p>
-                          <hr>   
-                          
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2893377404.jpg" width="60%" height="60%">    
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2892053237.jpg" width="60%" height="60%">    
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2890967727.jpg" width="60%" height="60%">    
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2892147732.jpg" width="60%" height="60%">    
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2702404261.jpg" width="60%" height="60%">    
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2829225129.jpg" width="60%" height="60%">    
-            <img src="https://www.hd.club.tw/data/attachment/forum/202201/03/104816r9r9pdatlxlm4jdo.jpg.thumb.jpg" width="60%" height="60%">    
-            <img src="https://www.hd.club.tw/data/attachment/forum/202112/15/034643irpkskco8iofnmxf.jpg.thumb.jpg" width="60%" height="60%">    
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2717309409.jpg" width="60%" height="60%">                       
-            <img src="https://img3.doubanio.com/view/photo/l/public/p2731675460.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2689506331.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2695989679.jpg" width="60%" height="60%">     
-            <img src="https://img3.doubanio.com/view/photo/l/public/p2690948080.jpg" width="60%" height="60%">                             
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2665224649.jpg" width="60%" height="60%">     
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg" width="60%" height="60%">                       
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2673133819.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2678888032.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2661661947.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2662585073.jpg" width="60%" height="60%">
-            <img src="https://img3.doubanio.com/view/photo/l/public/p2634037610.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2636972051.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2640611704.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2652691446.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2657554193.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2647131304.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2649579601.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p1422373182.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2191442753.jpg" width="60%" height="60%">
-            <img src="https://img9.doubanio.com/view/photo/l/public/p2662552995.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2657248953.jpg" width="60%" height="60%">
-            <img src="https://img2.doubanio.com/view/photo/l/public/p2670935583.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p2594097919.jpg" width="60%" height="60%">
-            <img src="https://img1.doubanio.com/view/photo/l/public/p896064368.jpg" width="60%" height="60%">              
+                          <hr>               
+            <img src="http://up.ccp.ovh/files/Gw9bo/p2892024245.jpg" width="60%" height="60%">        
                   </div>
                  </html>`
 
