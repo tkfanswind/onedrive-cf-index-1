@@ -15,7 +15,7 @@ export const PASS = AUTH_PASSWORD
 // export const PASS = ''
 
 export const DISABLE_PATHS = ['/favicon.ico', '/robots.txt']
-export const ENABLE_PATHS = ['/电影-IMDb.Top.250', '/电影-合集', '/Music[FLAC]']
+export const ENABLE_PATHS = ['/电影-IMDb.Top.250', '/电影-合集', '/电影-NEW', '/TV-NEW']
 
 /**
  * RegExp for basic auth credentials
